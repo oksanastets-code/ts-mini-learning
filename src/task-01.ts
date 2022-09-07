@@ -10,6 +10,8 @@
 let name: string = "Генератор захисного поля";
 let price: number = 1000;
 price = 2000;
+console.log('Task 1');
+
 console.log(`Вибрано ${name}, ціна за штуку ${price} кредитів`);
 
 export { };
