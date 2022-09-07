@@ -10,9 +10,16 @@
 const ADMIN_PASSWORD: string = 'jqueryismyjam';
 let message: string;
 console.log('Task 3');
-let password: string | null = prompt('Прошу ввести пароль');
-if (!password) {message = 'Відміна!'}
-else if (password === ADMIN_PASSWORD) { message = 'Ласкаво просимо!' }
-else { message = 'Доступ заборонений, невірний пароль!'}
+let password: string | null = prompt(
+  'Прошу ввести пароль',
+);
+if (!password) {
+  message = 'Відміна!';
+} else if (password === ADMIN_PASSWORD) {
+  message = 'Ласкаво просимо!';
+} else {
+  message =
+    'Доступ заборонений, невірний пароль!';
+}
 alert(message);
-export { };
+export {};

@@ -10,13 +10,18 @@
 // const total = 100;
 // const ordered = 50;
 
-function makeMessage(total: number, ordered: number) {
-    console.log('Task 2');
-    
-    if (ordered > total) {
-        console.log('На складі недостатньо товарів!');
-    } else console.log('Замовлення оформлене, вам зателефонує менеджер');
-    
+function makeMessage(
+  total: number,
+  ordered: number,
+) {
+  console.log('Task 2');
+
+  if (ordered > total) {
+    console.log('На складі недостатньо товарів!');
+  } else
+    console.log(
+      'Замовлення оформлене, вам зателефонує менеджер',
+    );
 }
 
 makeMessage(100, 120);
