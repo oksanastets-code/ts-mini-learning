@@ -18,7 +18,7 @@ const pricePerDroid: number = 3000;
 console.log('Task 4');
 
 let quantity: string | null | number = prompt(
-    'Enter the number',
+    'Скільки дроідів ви хочете замовити?',
 );
 if(!quantity) {console.log('Відміна!');
 }
