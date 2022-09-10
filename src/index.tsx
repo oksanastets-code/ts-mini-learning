@@ -6,4 +6,5 @@
 // import "./hw-01/task-06.ts";
 
 import "./hw-02/task-01.ts";
+import "./hw-02/task-02.ts";
 export {};
