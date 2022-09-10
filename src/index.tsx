@@ -1,7 +1,9 @@
-// import "./task-01.ts";
-// import "./task-02.ts";
-// import "./task-03.ts";
-// import "./task-04.ts";
-// import "./task-05.ts";
-import "./task-06.ts";
+// import "./hw-01/task-01.ts";
+// import "./hw-01/task-02.ts";
+// import "./hw-01/task-03.ts";
+// import "./hw-01/task-04.ts";
+// import "./hw-01/task-05.ts";
+// import "./hw-01/task-06.ts";
+
+import "./hw-02/task-01.ts";
 export {};
