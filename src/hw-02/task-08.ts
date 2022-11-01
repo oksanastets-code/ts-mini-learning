@@ -55,6 +55,6 @@ function loadGrain(levels: number[]) {
 // console.log(loadGrain([2, 4, 2]));
 // console.log(loadGrain([7, 4]));
 // console.log(loadGrain([]));
-console.log(loadGrain([10, 5, 6, 2, 8, 1, 1, 1, 0, 5, 10])); //61
+// console.log(loadGrain([10, 5, 6, 2, 8, 1, 1, 1, 0, 5, 10])); //61
 
 export {};

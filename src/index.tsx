@@ -12,5 +12,6 @@
 // import "./hw-02/task-05.ts";
 // import "./hw-02/task-06.ts";
 // import "./hw-02/task-07.ts";
-import "./hw-02/task-08.ts";
+// import "./hw-02/task-08.ts";
+
 export {};
